@@ -1,2 +1,1 @@
-# MABe-Challenge---Social-Action-Recognition-in-Mice
-Our code
+# Link các model đã train: https://github.com/bacbahieu/MABe-Challenge---Social-Action-Recognition-in-Mice/tree/main
